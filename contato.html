@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AUTO-GUIA GG - Contato</title>
+    <link rel="stylesheet" href="css/style.css"> 
+</head>
+<body>
+    
+    <header class="cabeçalho">
+        <div class="cabeçalho-topo">
+            <div class="logo">AUTO-GUIA GG</div>
+            <div class="links-topo">
+                <a href="#" class="fipe">TABELA FIPE</a>
+            </div>
+        </div>
+        <div class="barra">
+            <div class="busca-container">
+                <input type="text" placeholder="DESCREVA O VEÍCULO QUE BUSCA" class="busca">
+                <span class="descreva">▼</span>
+            </div>
+            <span class="icone">☰ MENU</span>
+        </div>
+    </header>
+    
+    <nav class="lista">
+        <ul class="organiza">
+            <li class="sobre">
+                <a href="sobre.html" class="nav-link">INÍCIO</a> 
+            </li>
+            <li class="Marca">
+                <a href="index.html" class="nav-link">MARCA</a>
+            </li>
+            <li class="contato-nav">
+                <a href="contato.html" class="nav-link nav-link-active">CONTATO</a>
+            </li>
+            <li class="Preco">
+                <a href="#" class="nav-link">PREÇO MAX</a>
+            </li>
+        </ul>
+    </nav>
+    
+    <main class="autogg-contato">
+        <section class="contatos">
+            
+            <h2 class="fale-conosco">Fale Conosco</h2>
+            
+            <div class="form-box">
+                <h1 class="contato">Entre em Contato com a AUTO-GUIA GG</h1>
+                
+                <form action="#" method="POST" class="formulario">
+                    
+                    <div class="nome">
+                        <label for="nome">Nome Completo</label>
+                        <input type="text" id="nome" name="nome" required>
+                    </div>
+
+                    <div class="email">
+                        <label for="email">E-mail</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+
+                    <div class="assunto">
+                        <label for="assunto">Assunto</label>
+                        <select id="assunto" name="assunto">
+                            <option value="geral">Dúvida Geral</option>
+                            <option value="venda">Venda de Veículo</option>
+                            <option value="compra">Interesse em Compra</option>
+                            <option value="suporte">Suporte Técnico</option>
+                        </select>
+                    </div>
+
+                    <div class="mensagem">
+                        <label for="mensagem">Mensagem</label>
+                        <textarea id="mensagem" name="mensagem" rows="5" required></textarea>
+                    </div>
+
+                    <button type="submit" class="enviar">ENVIAR MENSAGEM</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <div class="redes">
+            <a href="#" class="instagram"></a>
+            <a href="#" class="facebook"></a>
+        </div>
+        <p class="footer-copy">© 2025 GUIA GG direitos reservados</p>
+        <div class="footer-brand">AUTO-GUIA GG</div>
+    </footer>
+    
+</body>
+</html>
