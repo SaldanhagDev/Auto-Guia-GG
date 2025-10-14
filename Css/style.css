@@ -1,19 +1,15 @@
-/* Definições de cores e fontes gerais */
 :root {
-    --color-background-main: #b1b5bd; /* Cinza claro de fundo */
-    --color-header-bg: #e0e0e0; /* Fundo do topo do cabeçalho (quase branco) */
-    --color-dark-bg: #353b42; /* Cor escura dos botões e do rodapé */
-    --color-link-blue: #007bff; /* Azul vibrante */
-    --color-card-bg: #3e444b; /* Cor do fundo dos cards e do box 'Sobre Nós' */
-    --color-text-light: #ffffff; /* Texto branco */
-    --color-text-dark: #333333; /* Texto escuro */
+    --color-background-main: #b1b5bd;
+    --color-header-bg: #e0e0e0;
+    --color-dark-bg: #353b42;
+    --color-link-blue: #007bff;
+    --color-card-bg: #3e444b;
+    --color-text-light: #ffffff;
+    --color-text-dark: #333333;
     --font-size-small: 0.85em;
     --font-size-xsmall: 0.75em;
 }
 
-/* ------------------------------------- */
-/* ESTILOS GERAIS */
-/* ------------------------------------- */
 * {
     margin: 0;
     padding: 0;
@@ -33,9 +29,6 @@ a {
     color: inherit;
 }
 
-/* ------------------------------------- */
-/* CABEÇALHO (Header) - IDÊNTICO EM AMBAS AS PÁGINAS */
-/* ------------------------------------- */
 .cabeçalho {
     background-color: var(--color-header-bg);
     width: 100%;
@@ -61,7 +54,7 @@ a {
     font-weight: bold;
 }
 
-.cabeçalho-barra-inferior { 
+.barra { 
     background-color: var(--color-dark-bg); 
     display: flex;
     justify-content: flex-end; 
@@ -80,7 +73,7 @@ a {
     height: 30px; 
 }
 
-.busca-input { 
+.busca { 
     border: none;
     outline: none;
     padding-right: 20px; 
@@ -99,16 +92,13 @@ a {
     color: var(--color-text-dark);
 }
 
-.icone-menu { 
+.icone { 
     font-weight: bold;
     color: var(--color-text-light); 
     padding: 0 5px;
     font-size: var(--font-size-small);
 }
 
-/* ------------------------------------- */
-/* NAV (Menu de Filtros) - IDÊNTICO EM AMBAS AS PÁGINAS */
-/* ------------------------------------- */
 .lista { 
     background-color: var(--color-background-main); 
     border-top: 1px solid #999; 
@@ -141,9 +131,6 @@ a {
     background-color: var(--color-link-blue); 
 }
 
-/* ------------------------------------- */
-/* RODAPÉ (Footer) - IDÊNTICO EM AMBAS AS PÁGINAS */
-/* ------------------------------------- */
 .rodape { 
     padding: 15px 30px;
     background-color: var(--color-dark-bg); 
@@ -183,27 +170,22 @@ a {
     font-size: 1.2em;
 }
 
-/* ------------------------------------- */
-/* ESTILOS ESPECÍFICOS DA PÁGINA "SOBRE NÓS" */
-/* ------------------------------------- */
-
-.main-content-area { 
-    /* Esta classe é usada para envolver o conteúdo principal e centralizá-lo */
+.marea { 
     flex-grow: 1;
     padding: 30px 20px; 
     display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
+    justify-content: center;
+    align-items: center;
     width: 100%;
 }
 
-.sobre-nos-container {
+.sobre-nos { 
     flex-direction: column;
     align-items: center;
     width: 100%;
 }
 
-.sobre-nos-titulo-pequeno {
+.titulo { 
     background-color: var(--color-dark-bg);
     color: var(--color-text-light);
     padding: 8px 30px;
@@ -216,7 +198,7 @@ a {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-.sobre-nos-box {
+.box { 
     background-color: var(--color-card-bg); 
     color: var(--color-text-light);
     padding: 50px 70px;
@@ -227,23 +209,18 @@ a {
     line-height: 1.8;
 }
 
-.sobre-nos-titulo-grande {
+.titulo-grande { 
     font-size: 2.5em; 
     margin-bottom: 25px;
     font-weight: 700;
 }
 
-.sobre-nos-texto {
+.texto { 
     font-size: 1.05em; 
     line-height: 1.6; 
     text-align: justify;
     color: #f0f0f0; 
 }
-
-
-/* ------------------------------------- */
-/* ESTILOS ESPECÍFICOS DA PÁGINA DE CARROS */
-/* ------------------------------------- */
 
 .Lista_carros { 
     flex-grow: 1;
@@ -254,7 +231,6 @@ a {
 }
 
 .carros { 
-    /* Base: Empilha os cards verticalmente */
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -263,7 +239,6 @@ a {
 }
 
 .carro1, .carro2, .carro3, .carro4 { 
-    /* Base: Imagem e detalhes lado a lado (ROW) */
     background-color: var(--color-card-bg); 
     color: var(--color-text-light);
     display: flex;
@@ -313,7 +288,6 @@ a {
     margin-top: 5px;
 }
 
-/* Paginação */
 .navegacao { 
     display: flex;
     justify-content: center;
@@ -341,14 +315,7 @@ a {
     background-color: var(--color-link-blue); 
 }
 
-
-/* ------------------------------------- */
-/* RESPONSIVIDADE (Aplica-se a todos os layouts) */
-/* ------------------------------------- */
-
-/* TABLETS (Telas entre 601px e 950px) */
 @media (max-width: 950px) {
-    /* Lista de Carros (CSS GRID para 2 colunas) */
     .carros { 
         display: grid;
         grid-template-columns: 1fr 1fr; 
@@ -357,7 +324,6 @@ a {
         margin: 0 auto;
     }
 
-    /* Layout interno de cada Card (Flexbox: Imagem em cima dos detalhes) */
     .carro1, .carro2, .carro3, .carro4 { 
         flex-direction: column; 
         width: 100%;
@@ -382,22 +348,18 @@ a {
         text-align: center; 
     }
 
-    /* Ajuste do Box Sobre Nós */
-    .sobre-nos-box {
+    .box { 
         padding: 40px 30px;
         margin: 0 10px; 
     }
 }
 
 
-/* MOBILE (Telas <= 600px) */
 @media (max-width: 600px) {
     
-    /* CABEÇALHO: Mantendo a estrutura de duas barras HORIZONTAL */
-    /* Barra superior: Logo à esquerda, FIPE à direita */
     .cabeçalho-topo {
-        flex-direction: row; /* Mantém elementos lado a lado */
-        justify-content: space-between; /* Espaço entre Logo e FIPE */
+        flex-direction: row; 
+        justify-content: space-between; 
         align-items: center;
         height: auto; 
         padding: 10px 20px;
@@ -408,9 +370,8 @@ a {
         width: auto; 
     }
 
-    /* Barra inferior: Busca à esquerda, Menu à direita */
-    .cabeçalho-barra-inferior {
-        flex-direction: row; /* Mantém elementos lado a lado */
+    .barra { 
+        flex-direction: row; 
         justify-content: space-between; 
         align-items: center; 
         height: auto; 
@@ -419,22 +380,21 @@ a {
     }
     
     .busca-container {
-        flex-grow: 1; /* Permite que a busca ocupe o espaço restante */
+        flex-grow: 1; 
         height: 35px; 
         width: auto; 
     }
     
-    .busca-input {
+    .busca { 
         width: 100%; 
     }
     
-    .icone-menu {
+    .icone { 
         align-self: center; 
         margin-top: 0; 
         margin-right: 0; 
     }
 
-    /* NAV (Menu de Filtros) */
     .organiza {
         flex-wrap: wrap; 
         justify-content: center;
@@ -444,14 +404,12 @@ a {
         padding: 6px 10px; 
     }
 
-    /* Lista de Carros (CSS GRID para 1 coluna) */
     .carros {
         grid-template-columns: 1fr; 
         gap: 20px;
         display: grid; 
     }
 
-    /* Rodapé: Empilhamento */
     .rodape {
         flex-direction: column;
         gap: 15px;
@@ -468,14 +426,13 @@ a {
         order: 2;
     }
     
-    /* Sobre Nós */
-    .sobre-nos-box {
+    .box { 
         padding: 30px 20px;
     }
-    .sobre-nos-titulo-grande {
+    .titulo-grande { 
         font-size: 2em;
     }
-    .sobre-nos-texto {
+    .texto { 
         font-size: 1em;
     }
 }
