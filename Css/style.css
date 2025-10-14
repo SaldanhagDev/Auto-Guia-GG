@@ -436,3 +436,118 @@ a {
         font-size: 1em;
     }
 }
+
+.autogg-contato { 
+    flex-grow: 1;
+    padding: 30px 20px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.contatos { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.fale-conosco { 
+    background-color: var(--color-dark-bg);
+    color: var(--color-text-light);
+    padding: 8px 30px;
+    font-size: 1.1em;
+    font-weight: normal;
+    text-align: center;
+    width: 250px; 
+    margin: 0 auto 30px auto; 
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.form-box { 
+    background-color: var(--color-card-bg); 
+    color: var(--color-text-light);
+    padding: 40px;
+    max-width: 600px; 
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); 
+    text-align: center; 
+}
+
+.contato { 
+    font-size: 1.8em;
+    margin-bottom: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.formulario {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+
+.nome, .email, .assunto, .mensagem { 
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.formulario label {
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #ccc;
+}
+
+.formulario input[type="text"],
+.formulario input[type="email"],
+.formulario select,
+.formulario textarea {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #555c65; 
+    color: var(--color-text-light);
+    font-size: 1em;
+    box-sizing: border-box; 
+}
+
+.formulario textarea {
+    resize: vertical;
+}
+
+.enviar { 
+    background-color: var(--color-link-blue); 
+    color: var(--color-text-light);
+    border: none;
+    padding: 12px 20px;
+    font-size: 1em;
+    font-weight: bold;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: background-color 0.2s;
+}
+
+.enviar:hover {
+    background-color: #0056b3; 
+}
+
+
+
+@media (max-width: 600px) {
+    .form-box {
+        padding: 20px;
+        margin: 0 10px;
+    }
+
+    .contato { 
+        font-size: 1.4em;
+    }
+}
