@@ -546,8 +546,23 @@ a {
         padding: 20px;
         margin: 0 10px;
     }
+}
 
     .contato { 
         font-size: 1.4em;
     }
+    .redes{
+        width: 10px;
+        
+    }
+    
+.instagram {
+    width: 40px;
+    height: 40px;
 }
+
+.whatsapp {
+    width: 40px;
+    height: 40px;
+}
+
