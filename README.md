@@ -27,7 +27,7 @@ O mercado de veículos usados no Brasil é vasto e, muitas vezes, carece de tran
 ## 3. Protótipo e Design
 
 ### Link para o Protótipo no Figma
-[**Inserir Link do Figma Aqui**]
+[https://www.figma.com/design/tpRCTctWhvw6IU8X5CSQjI/Auto-GG?node-id=0-1&t=zGF2zJK9lMABnbBA-1]
 
 ### Justificativas Detalhadas de Design
 
@@ -61,3 +61,4 @@ O projeto segue uma estrutura básica e organizada para desenvolvimento web:
 | 12/10 (Dom) | Gabriel Saldanha (HTML/CSS) | Estilização CSS Base e Layout Inicial dos Cards (Desktop View). |
 | 13/10 (Seg) | Gabriel Saldanha (HTML/CSS) | Implementação Completa da Responsividade (Media Queries) e Layout Mobile. |
 | 14/10 (Ter) | Ambos | Refinamento final, Correções de Consistência do Cabeçalho e Rodapé, e Preparação do Repositório (README). |
+| 12/11 (qua) | Gabriel Saldanha JavaScript colo
