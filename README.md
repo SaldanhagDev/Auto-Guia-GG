@@ -27,7 +27,7 @@ O mercado de veículos usados no Brasil é vasto e, muitas vezes, carece de tran
 ## 3. Protótipo e Design
 
 ### Link para o Protótipo no Figma
-[https://www.figma.com/design/tpRCTctWhvw6IU8X5CSQjI/Auto-GG?node-id=0-1&t=zGF2zJK9lMABnbBA-1]
+https://www.figma.com/design/tpRCTctWhvw6IU8X5CSQjI/Auto-GG?node-id=0-1&t=zGF2zJK9lMABnbBA-1
 
 ### Justificativas Detalhadas de Design
 
