@@ -81,21 +81,25 @@
                 </form>
             </div>
         </section>
+
+    <section class="mapa-auto-guia-gg">
+        <h2 class="venha">Nossa Localização</h2>
+        <div class="mapa-ancorado">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25391.93334023304!2d-12.678806054077251!3d-37.29533130778261!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x25bad005a64d897%3A0x2e3c814b3f22e284!2sInaccessible%20Island%20Shelter!5e0!3m2!1spt-BR!2sus!4v1762965275117!5m2!1spt-BR!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+            title="Localização da Auto-Guia GG">
+           </iframe>
+        </div>
+    </section>
     </main>
 
-    <footer class="rodape">
-    <div class="redes">
-        <a href="https://www.instagram.com/AutoGuiaGG" target="_blank">
-            <img src="Img/instagram.png" alt="instagram" class="instagram">
-        </a>
-        <a href="https://wa.me/556199999999999?text=Olá%20Gostaria%20de%20mais%20informações" target="_blank">
-            <img src="Img/what.png" alt="whatsapp" class="whatsapp">
-        </a>   
-        </div>
-        <p class="footer-copy">© 2025 GUIA GG direitos reservados</p>
-        <div class="footer-brand">AUTO-GUIA GG</div>
-    </footer>
-    
+   <div id="footer-container"></div>
+
+
+  <script src="js/componentes.js"></script>
+  <script>
+    carregarComponente('componentes/header.html', '#header-container');
+    carregarComponente('componentes/footer.html', '#footer-container');
+  </script>
 </body>
 </html>
 
