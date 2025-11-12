@@ -315,14 +315,7 @@ a {
     background-color: var(--color-link-blue); 
 }
 
-@media (max-width: 950px) {
-    .carros { 
-        display: grid;
-        grid-template-columns: 1fr 1fr; 
-        gap: 15px;
-        max-width: 950px;
-        margin: 0 auto;
-    }
+
 
     .carro1, .carro2, .carro3, .carro4 { 
         flex-direction: column; 
@@ -352,7 +345,7 @@ a {
         padding: 40px 30px;
         margin: 0 10px; 
     }
-}
+
 
 
 @media (max-width: 600px) {
@@ -565,4 +558,31 @@ a {
     width: 40px;
     height: 40px;
 }
+.mapa-auto-guia-gg {
+    position: sticky;
+    width: 30%px;
+    height: 400px;
+    margin-top: 30px;
+    overflow: hidden;
+    flex-shrink: 0; 
+    right: 10px; 
+    bottom: 10px; 
+    z-index: 1000; 
+    border: 1px solid #ccc; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
+    display: block;
+
+
+}
+.venha{
+   background-color: var(--color-dark-bg);
+    color: var(--color-text-light);
+    font-size: 1.1em;
+    font-weight: normal;
+    text-align: center;
+}
+
+
+
 
