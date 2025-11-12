@@ -1,0 +1,61 @@
+@media (max-width: 960px) {
+    .carros { 
+       max-width: 960px;
+       margin: 0 auto;
+    }
+    .carro1, .carro2, .carro3, .carro4 { 
+        flex-direction: column; 
+        width: 89%;
+    }
+
+    .Honda, .ford, .Fiat, .Hyundai {
+        width: 90%;
+        height: auto;
+        max-height: 180px; 
+    }
+
+    .detalhes {
+        text-align: center;
+        padding: 15px;
+    }
+    
+    .nome, .preco {
+        text-align: center;
+    }
+    
+    .detalhes p {
+        text-align: center; 
+    }
+
+    .box { 
+        padding: 40px 30px;
+        margin: 0 10px; 
+    }
+
+}
+@media (max-width: 768px) {
+    .carros { 
+       max-width: 768px;
+       margin: 0 auto;
+    
+    .carro1, .carro2, .carro3, .carro4 { 
+        flex-direction: column; 
+        width: 100%;
+    }
+}
+
+}
+.carros{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 30 px;
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+@media (max-width: 1280px) {
+    .carros { 
+       max-width: 1280px;
+       margin: 0 auto;
+    }
+}
