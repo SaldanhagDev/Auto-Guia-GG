@@ -61,4 +61,5 @@ O projeto segue uma estrutura básica e organizada para desenvolvimento web:
 | 12/10 (Dom) | Gabriel Saldanha (HTML/CSS) | Estilização CSS Base e Layout Inicial dos Cards (Desktop View). |
 | 13/10 (Seg) | Gabriel Saldanha (HTML/CSS) | Implementação Completa da Responsividade (Media Queries) e Layout Mobile. |
 | 14/10 (Ter) | Ambos | Refinamento final, Correções de Consistência do Cabeçalho e Rodapé, e Preparação do Repositório (README). |
-| 12/11 (qua) | Gabriel Saldanha JavaScript colo
+| 10/11 (Seg) | Ambos | adicionaram a localização e meios de contao ao site. |
+| 12/11 (qua) | Gabriel Saldanha JavaScript colocando o header e o footer. |
