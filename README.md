@@ -7,7 +7,7 @@
 | **Nome do Projeto** | AUTO-GUIA GG |
 | **Tema** | Classificados e Guia de Preços (Automotivo) |
 | **Integrantes e Papéis** | **Gabriel Saldanha Cavalcanti:** Desenvolvedor (HTML/CSS/JS) |
-| | **Gabriel Michael Magalhães Lima:** Designer UX/UI (Figma/CSS) |
+| | **Gabriel Michael Magalhães Lima:** Designer UX/UI e Desenvolvedor (Figma/HTML/CSS) |
 
 ## 2. Visão Geral do Negócio
 
