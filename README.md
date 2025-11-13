@@ -63,3 +63,16 @@ O projeto segue uma estrutura básica e organizada para desenvolvimento web:
 | 14/10 (Ter) | Ambos | Refinamento final, Correções de Consistência do Cabeçalho e Rodapé, e Preparação do Repositório (README). |
 | 10/11 (Seg) | Ambos | adicionaram a localização e meios de contao ao site. |
 | 12/11 (qua) | Gabriel Saldanha JavaScript colocando o header e o footer. |
+
+
+
+## 6. Acesse o site aqui
+https://saldanhagdev.github.io/Auto-Guia-GG
+
+<img width="1858" height="918" alt="image" src="https://github.com/user-attachments/assets/c65297a4-805b-417b-83da-bd11cb62a42f" />
+
+|13/11(Qui) | Dia da publicação do site.|
+
+
+
+
