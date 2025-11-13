@@ -71,7 +71,7 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 
 <img width="1858" height="918" alt="image" src="https://github.com/user-attachments/assets/c65297a4-805b-417b-83da-bd11cb62a42f" />
 
-|13/11(Qui) | Dia da publicação do site.|
+| 13/11(Qui) | Dia da publicação do site. |
 
 
 
