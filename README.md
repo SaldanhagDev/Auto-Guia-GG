@@ -73,7 +73,7 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 
 | Data         | Descrição                  |
 |--------------|---------------------------|
-| 13/11 (Qui)  | Dia da publicação do site.|
+| 13/11 (Qui) | Dia da publicação do site.|
 
 
 
