@@ -77,5 +77,16 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 
 
 
+##7. Navegadores testados
+| Navegador      | Avaliação|
+|--------------|---------------------------|
+| Opera GX     | funcionou bem|
+| Chrome       | funcionou bem|
+| Firefox      | funcionou bem|
+| Edge         | funcionou bem|
+
+
+
+
 
 
