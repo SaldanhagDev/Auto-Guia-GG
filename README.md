@@ -82,7 +82,6 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 |--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | Opera GX     | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |  
 | Chrome       | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |
-| Firefox      | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |
 | Edge         | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |
 
 
