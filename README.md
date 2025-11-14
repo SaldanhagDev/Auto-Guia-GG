@@ -86,6 +86,16 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 | Edge         | funcionou bem|
 
 
+##8. Teste em dispositivos reais
+| Dispositivo   | Avaliação|
+|--------------|---------------------------|
+| Redmi note 13 | Funcionou bem o layot ficou conforme oque configuramos|
+| Motorola g73  | Funcionou bem o layot ficou conforme oque configuramos|
+| Computador (1920x1080)| Funcionou bem o layot ficou conforme oque configuramos|
+| Notebook (1366x768) | Funcionou bem o layot ficou conforme oque configuramos|
+
+
+
 
 
 
