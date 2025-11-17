@@ -16,11 +16,11 @@ Repetição de HTML nos cards de veículos: Apesar de o header e o footer serem 
 
 Estrutura de navegação: Os links de paginação ainda são estáticos e não levam a outras páginas reais. Implementar a navegação ou indicar que está em desenvolvimento tornaria a experiência mais completa.
 
-Pequenos problemas de estrutura: Há alguns trechos de HTML onde <div>s são abertas mas não fechadas corretamente, o que pode causar problemas de layout em navegadores diferentes.
+Pequenos problemas de estrutura: Há alguns trechos de HTML onde divs são abertas mas não fechadas corretamente, o que pode causar problemas de layout em navegadores diferentes.
 
 Padronização da navegação: Nas páginas “Contato” e “Sobre Nós”, o header está escrito manualmente enquanto na página inicial é carregado via componente. Unificar isso deixaria o projeto mais consistente.
 
-Melhor uso de semântica: Embora a estrutura esteja correta, alguns elementos poderiam ser mais semânticos (por exemplo, substituir divs por <article>, <section>, <header>, onde fizer sentido).
+Melhor uso de semântica: Embora a estrutura esteja correta, alguns elementos poderiam ser mais semânticos (por exemplo, substituir divs por article, section, header, onde fizer sentido).
 
 Resumo Final
 
