@@ -86,12 +86,11 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 
 
 ##8. Teste em dispositivos reais
-| Dispositivo   | Avaliação|
-|--------------|---------------------------|
-| Redmi note 13 | Funcionou bem o layot ficou conforme oque configuramos|
-| Motorola g73  | Funcionou bem o layot ficou conforme oque configuramos|
-| Computador (1920x1080)| Funcionou bem o layot ficou conforme oque configuramos|
-| Notebook (1366x768) | Funcionou bem o layot ficou conforme oque configuramos|
+| Dispositivo   | Avaliação| Touch| Carregamento| Expêriencia bom com o 3G/4G/5G ?|
+|--------------|---------------------------|---------|---------|---------|
+| Redmi note 13 | Funcionou bem o layot ficou conforme oque configuramos| O touch fucionou perfeitamente| Carregou tranquilamente| A experiência está bem fluida com o uso de dados móveis|
+| Motorola g73  | Funcionou bem o layot ficou conforme oque configuramos| O touch fucionou perfeitamente| Carregou tranquilamente| A experiência está bem fluida com o uso de dados móveis|
+
 
 ##9. Teste de Responsividade mobile
 | Dispositivo   | Resolução | Avaliação|
@@ -100,6 +99,8 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 | iPhone 12 Pro | 390x844 | O menu,cabeçalho e rodappé se adaptaram bem|
 | iPad | 768x1024 | O menu,cabeçalho e rodappé se adaptaram bem|
 | iPad Pro | 1024x1366 | O menu,cabeçalho e rodappé se adaptaram bem|
+| Computador (1920x1080)| Funcionou bem o layot ficou conforme oque configuramos| 
+| Notebook (1366x768) | Funcionou bem o layot ficou conforme oque configuramos|
 
 
 
