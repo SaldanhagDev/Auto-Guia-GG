@@ -76,23 +76,7 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 | 13/11 (Qui) | Dia da publicação do site.|
 
 
-
-##7. Navegadores testados
-| Navegador      | Avaliação| O layout está correto? | Todas as páginas carregam? |  Imagens aparecem? | CSS está aplicado corretamente? | JavaScript funciona | Formulários estão funcionais? | Menu e navegação funcionam? |
-|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
-| Opera GX     | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |  
-| Chrome       | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |
-| Edge         | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |
-
-
-##8. Teste em dispositivos reais
-| Dispositivo   | Avaliação| Touch| Carregamento| Expêriencia bom com o 3G/4G/5G ?|
-|--------------|---------------------------|---------|---------|---------|
-| Redmi note 13 | Funcionou bem o layot ficou conforme oque configuramos| O touch fucionou perfeitamente| Carregou tranquilamente| A experiência está bem fluida com o uso de dados móveis|
-| Motorola g73  | Funcionou bem o layot ficou conforme oque configuramos| O touch fucionou perfeitamente| Carregou tranquilamente| A experiência está bem fluida com o uso de dados móveis|
-
-
-##9. Teste de Responsividade mobile
+##7. Teste de Responsividade mobile
 | Dispositivo   | Resolução | Avaliação|
 |--------------|------------|---------------|
 | iPhone SE | 375x667 | O menu,cabeçalho e rodappé se adaptaram bem|
@@ -101,6 +85,21 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 | iPad Pro | 1024x1366 | O menu,cabeçalho e rodappé se adaptaram bem|
 | Computador (1920x1080)| Funcionou bem o layot ficou conforme oque configuramos| 
 | Notebook (1366x768) | Funcionou bem o layot ficou conforme oque configuramos|
+
+
+##8. Teste em dispositivos reais
+| Dispositivo   | Avaliação| Touch| Carregamento| Expêriencia bom com o 3G/4G/5G ?|
+|--------------|---------------------------|---------|---------|---------|
+| Redmi note 13 | Funcionou bem o layot ficou conforme oque configuramos| O touch fucionou perfeitamente| Carregou tranquilamente| A experiência está bem fluida com o uso de dados móveis|
+| Motorola g73  | Funcionou bem o layot ficou conforme oque configuramos| O touch fucionou perfeitamente| Carregou tranquilamente| A experiência está bem fluida com o uso de dados móveis|
+
+##9. Navegadores testados
+| Navegador      | Avaliação| O layout está correto? | Todas as páginas carregam? |  Imagens aparecem? | CSS está aplicado corretamente? | JavaScript funciona | Formulários estão funcionais? | Menu e navegação funcionam? |
+|--------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Opera GX     | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |  
+| Chrome       | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |
+| Edge         | funcionou bem| Sim | Sim | Sim | Sim | Sim | Sim | Sim |
+
 
 
 
