@@ -93,6 +93,11 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 | Computador (1920x1080)| Funcionou bem o layot ficou conforme oque configuramos|
 | Notebook (1366x768) | Funcionou bem o layot ficou conforme oque configuramos|
 
+##9. Teste de Responsividade mobile
+| Dispositivo   | Resolução | Avaliação|
+|--------------|------------|---------------|
+| iPhone SE | 375x667 | O menu,cabeçalho e rodappé se adaptaram bem|
+
 
 
 
