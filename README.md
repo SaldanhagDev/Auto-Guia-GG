@@ -97,6 +97,10 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 | Dispositivo   | Resolução | Avaliação|
 |--------------|------------|---------------|
 | iPhone SE | 375x667 | O menu,cabeçalho e rodappé se adaptaram bem|
+| iPhone 12 Pro | 390x844 | O menu,cabeçalho e rodappé se adaptaram bem|
+| iPad | 768x1024 | O menu,cabeçalho e rodappé se adaptaram bem|
+| iPad Pro | 1024x1366 | O menu,cabeçalho e rodappé se adaptaram bem|
+
 
 
 
