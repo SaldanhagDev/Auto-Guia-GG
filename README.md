@@ -135,4 +135,35 @@ Parte 3 – Publicação e Otimização do Projeto:
 Na etapa final, realizamos a publicação oficial do site utilizando o GitHub Pages, tornando o projeto acessível online. Padronizamos todos os arquivos de imagem para o formato WEBP, garantindo melhor desempenho e carregamento mais rápido. Adicionamos a logo oficial do site, reforçando a identidade visual. Além disso, utilizamos ferramentas específicas para minificar o CSS e o JavaScript, reduzindo o tamanho dos arquivos e otimizando o tempo de carregamento das páginas.
 
 
+##12. Próximos Passos e Melhorias Futuras
+- [✅]  Adicionar funcionalidade X
+- [✅]  Melhorar acessibilidade em Y
+- [✅]  Implementar Z com JavaScript
+- [✅]  Aprender framework React/Vue para próxima iteração
+
+Conhecimentos a Aprofundar:
+Focada em Front-end:
+
+Aprofundar em acessibilidade web (WCAG)
+Estudar animações e transições CSS avançadas
+Aprender JavaScript assíncrono (Promises, async/await)
+Explorar manipulação de APIs REST
+Melhorar conhecimentos de responsividade com Grid e Flexbox avançado
+
+Focada em melhoria de performance
+
+Otimização de imagens, lazy loading e formatos modernos
+Estudo de SEO técnico para melhorar posicionamento
+Aprimorar técnicas de minificação e bundling (Parcel, Vite, Webpack)
+Aprender a medir performance com Lighthouse
+Estudar melhores práticas de estruturação de projeto
+
+Focada em JavaScript e lógica
+
+Aprender DOM avançado e eventos complexos
+Estudar programação orientada a objetos em JS
+Praticar fetch, APIs e JSON
+Começar com frameworks modernos (React, Vue ou Svelte)
+Aprofundar em armazenamento local (localStorage, sessionStorage)
+
 
