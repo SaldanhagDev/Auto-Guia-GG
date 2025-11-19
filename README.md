@@ -122,20 +122,7 @@ Iriamos falar que este site e um grande passo para que a empresa se torne uma em
 •	Vocês usariam este projeto como portfólio? Por quê?
 Sim pois ele mostra o quanto aprendemos como o uso do CSS, Javascript que ajudam muito colocando isto no portifólio
 
-
-##11. Resumo das 3 partes
-
-Parte 1 – Idealização e Início do Desenvolvimento:
-Na primeira etapa do projeto, realizamos a idealização completa do site, definindo o tema central, os objetivos e o público-alvo. Com base nisso, começamos a estruturar as primeiras páginas utilizando HTML e CSS, criando a base visual e funcional do projeto. Paralelamente, desenvolvemos o protótipo no Figma, garantindo uma visão clara do design e da experiência do usuário antes da implementação final.
-
-Parte 2 – Revisão, Organização e Melhorias Técnicas:
-Na segunda parte, fizemos uma revisão completa do código inicial, removendo trechos desnecessários, reorganizando estruturas e melhorando a legibilidade. Implementamos novas funcionalidades por meio de JavaScript, tornando o site mais dinâmico e interativo. Também realizamos uma autoavaliação dos nossos conhecimentos, identificando pontos fortes e aspectos que precisavam ser aprimorados para melhorar a qualidade do projeto.
-
-Parte 3 – Publicação e Otimização do Projeto:
-Na etapa final, realizamos a publicação oficial do site utilizando o GitHub Pages, tornando o projeto acessível online. Padronizamos todos os arquivos de imagem para o formato WEBP, garantindo melhor desempenho e carregamento mais rápido. Adicionamos a logo oficial do site, reforçando a identidade visual. Além disso, utilizamos ferramentas específicas para minificar o CSS e o JavaScript, reduzindo o tamanho dos arquivos e otimizando o tempo de carregamento das páginas.
-
-
-##12. Próximos Passos e Melhorias Futuras
+##11. Próximos Passos e Melhorias Futuras
 - [✅]  Adicionar funcionalidade X
 - [✅]  Melhorar acessibilidade em Y
 - [✅]  Implementar Z com JavaScript
@@ -165,5 +152,19 @@ Estudar programação orientada a objetos em JS
 Praticar fetch, APIs e JSON
 Começar com frameworks modernos (React, Vue ou Svelte)
 Aprofundar em armazenamento local (localStorage, sessionStorage)
+
+##12. Resumo das 3 partes
+
+Parte 1 – Idealização e Início do Desenvolvimento:
+Na primeira etapa do projeto, realizamos a idealização completa do site, definindo o tema central, os objetivos e o público-alvo. Com base nisso, começamos a estruturar as primeiras páginas utilizando HTML e CSS, criando a base visual e funcional do projeto. Paralelamente, desenvolvemos o protótipo no Figma, garantindo uma visão clara do design e da experiência do usuário antes da implementação final.
+
+Parte 2 – Revisão, Organização e Melhorias Técnicas:
+Na segunda parte, fizemos uma revisão completa do código inicial, removendo trechos desnecessários, reorganizando estruturas e melhorando a legibilidade. Implementamos novas funcionalidades por meio de JavaScript, tornando o site mais dinâmico e interativo. Também realizamos uma autoavaliação dos nossos conhecimentos, identificando pontos fortes e aspectos que precisavam ser aprimorados para melhorar a qualidade do projeto.
+
+Parte 3 – Publicação e Otimização do Projeto:
+Na etapa final, realizamos a publicação oficial do site utilizando o GitHub Pages, tornando o projeto acessível online. Padronizamos todos os arquivos de imagem para o formato WEBP, garantindo melhor desempenho e carregamento mais rápido. Adicionamos a logo oficial do site, reforçando a identidade visual. Além disso, utilizamos ferramentas específicas para minificar o CSS e o JavaScript, reduzindo o tamanho dos arquivos e otimizando o tempo de carregamento das páginas.
+
+
+
 
 
