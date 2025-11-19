@@ -102,6 +102,27 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 
 
 
+##9. Reflexão individual 
+Gabriel Saldanha
+
+Aprendizados Técnicos
+•	Durante o desenvolvimento do projeto, aprendi bastante sobre como estruturar e melhorar um site. O uso de HTML se mostrou muito prático e intuitivo para mim, e consegui evoluir bastante nessa parte.
+•	Também aprendi a utilizar o GitHub, entendendo como funciona o versionamento e a publicação do site, o que foi essencial para o andamento do projeto.
+•	Sem dúvidas, o maior desafio técnico foi o JavaScript, já que ele segue uma lógica bem diferente do HTML e do CSS. Exige mais raciocínio lógico e cuidado com a estrutura.
+•	Hoje percebo que desenvolvi boa facilidade com HTML e estou começando a ganhar mais confiança no CSS, mesmo que ainda tenha pontos para melhorar.
+
+Aprendizados de Processo
+•	O processo de trabalho foi positivo, pois ninguém ficou sobrecarregado. Conseguimos dividir as tarefas de maneira equilibrada e tranquila.
+•	O principal desafio foi a comunicação, já que os dois integrantes tinham muitas atividades, como trabalho e faculdade, o que dificultava alinhar horários. Mesmo assim, conseguimos organizar tudo com responsabilidade.
+•	A divisão foi feita com base nas habilidades de cada um, aproveitando os pontos fortes de ambos.
+•	Um ponto muito bom foi que conseguimos nos entender facilmente, sem grandes conflitos ou dificuldades no trabalho em equipe.
+
+Desafios Enfrentados
+•	O maior desafio do projeto foi realmente a implementação do JavaScript, já que nenhum dos dois integrantes tinha familiaridade com essa linguagem.
+•	Para superar isso, recorremos a muitas pesquisas, vídeos e tutoriais, que foram fundamentais para entender a lógica e conseguir implementar o necessário.
+•	No fim, acredito que não faria nada diferente. Cada dificuldade foi importante para o nosso aprendizado e contribuiu para nos tornar mais preparados para projetos futuros.
+
+
 ##10. Evolução do Projeto
 
 •	Como o projeto evoluiu da Parte 1 até agora?
