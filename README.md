@@ -102,8 +102,25 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 
 
 
+##10. Evolução do Projeto
 
-
+•	Como o projeto evoluiu da Parte 1 até agora?
+O  projeto evoluiu muito desde a parte 1 ele adicionamos mais paginas adicionamos Javascript melhoramos o css além de adaptação a diferentes telas
+•	Quais foram as maiores mudanças/melhorias?
+A aplicação do Javascript e a adaptação a diferentes telas
+•	O resultado final atende à proposta inicial?
+Atende muito chega ate a ficar melhor doque esperávamos
+Feedbacks Recebidos:
+•	O que vocês aprenderam com a avaliação dos colegas?
+•	Quais feedbacks foram mais úteis?
+•	Como pretendem aplicar essas sugestões?
+Relevância para o Negócio:
+•	O site realmente agregaria valor ao pequeno negócio escolhido?
+Sim pois o lugar escolhido e uma empresa pequena e isso pode ajudar eles a crescerem e muto
+•	Se pudessem apresentar para o dono do negócio, o que diriam?
+Iriamos falar que este site e um grande passo para que a empresa se torne uma empresa de grande reconhecimento
+•	Vocês usariam este projeto como portfólio? Por quê?
+Sim pois ele mostra o quanto aprendemos como o uso do CSS, Javascript que ajudam muito colocando isto no portifólio
 
 
 
