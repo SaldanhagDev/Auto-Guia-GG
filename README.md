@@ -102,7 +102,7 @@ https://saldanhagdev.github.io/Auto-Guia-GG
 
 
 
-##9. Reflexão individual 
+##10. Reflexão individual 
 Gabriel Saldanha
 
 Aprendizados Técnicos
@@ -122,8 +122,43 @@ Desafios Enfrentados
 •	Para superar isso, recorremos a muitas pesquisas, vídeos e tutoriais, que foram fundamentais para entender a lógica e conseguir implementar o necessário.
 •	No fim, acredito que não faria nada diferente. Cada dificuldade foi importante para o nosso aprendizado e contribuiu para nos tornar mais preparados para projetos futuros.
 
+Gabriel Michael
 
-##10. Evolução do Projeto
+Aprendizados Técnicos
+Quais foram as principais habilidades técnicas que você desenvolveu?
+•	O projeto proporcionou um aprimoramento significativo na organização do código, com foco na adoção de boas práticas para garantir a legibilidade e a manutenibilidade do software.
+•	Foram adquiridos insights e "macetes" de codificação específicos.
+•	Consolidou-se o entendimento das regras essenciais de design e usabilidade web, cruciais para entregar um produto final apresentável e eficaz para o usuário ou cliente.
+Qual foi a tecnologia ou conceito mais desafiador de aprender?
+•	Em minha percepção, o CSS (Cascading Style Sheets) foi o conceito que inicialmente apresentou maior desafio.
+•	Porém, com dedicação e prática intensiva, essa dificuldade foi rapidamente superada, culminando em uma satisfação e domínio na estilização de componentes.
+O que você domina melhor agora comparado ao início do projeto?
+•	Minha proficiência em CSS está significativamente mais alta agora, representando o maior ganho técnico deste projeto.
+
+Aprendizados de Processo
+Como foi trabalhar em dupla? Quais foram os desafios?
+•	A experiência de trabalho em dupla foi majoritariamente positiva e tranquila.
+•	O principal desafio enfrentado foi a gestão do tempo, dada a escassez de prazos, o que exigiu um esforço adicional em coordenação e foco.
+Como vocês organizaram as tarefas e a comunicação?
+•	A organização das tarefas e a divisão do trabalho foram conduzidas através de conversas diretas e eficazes.
+•	As decisões eram tomadas por consenso.
+•	A abordagem foi pautada na colaboração recíproca, com apoio contínuo entre os membros.
+O que funcionou bem na metodologia da dupla?
+•	O fator de maior sucesso foi a comunicação.
+•	A clareza e a frequência das interações foram fundamentais para manter o alinhamento e garantir o progresso contínuo do projeto.
+
+Desafios Enfrentados
+Qual foi o maior desafio do projeto?
+•	O maior desafio do projeto foi, inegavelmente, o tempo disponível.
+•	O prazo limitado exigiu alta eficiência, mas a meta final de entrega foi alcançada com sucesso.
+Como vocês superaram?
+•	A superação veio, em grande parte, através da execução eficiente das tarefas.
+Se pudesse voltar no tempo, o que faria diferente?
+•	Eu dedicaria mais tempo inicial ao planejamento dos detalhes e refinamento do design.
+•	Isso teria otimizado o fluxo de trabalho subsequente e liberado mais tempo para melhorias adicionais no site.
+
+
+##11. Evolução do Projeto
 
 •	Como o projeto evoluiu da Parte 1 até agora?
 O  projeto evoluiu muito desde a parte 1 ele adicionamos mais paginas adicionamos Javascript melhoramos o css além de adaptação a diferentes telas
@@ -143,7 +178,7 @@ Iriamos falar que este site e um grande passo para que a empresa se torne uma em
 •	Vocês usariam este projeto como portfólio? Por quê?
 Sim pois ele mostra o quanto aprendemos como o uso do CSS, Javascript que ajudam muito colocando isto no portifólio
 
-##11. Próximos Passos e Melhorias Futuras
+##12. Próximos Passos e Melhorias Futuras
 - [✅]  Adicionar funcionalidade X
 - [✅]  Melhorar acessibilidade em Y
 - [✅]  Implementar Z com JavaScript
@@ -174,7 +209,7 @@ Praticar fetch, APIs e JSON
 Começar com frameworks modernos (React, Vue ou Svelte)
 Aprofundar em armazenamento local (localStorage, sessionStorage)
 
-##12. Resumo das 3 partes
+##13. Resumo das 3 partes
 
 Parte 1 – Idealização e Início do Desenvolvimento:
 Na primeira etapa do projeto, realizamos a idealização completa do site, definindo o tema central, os objetivos e o público-alvo. Com base nisso, começamos a estruturar as primeiras páginas utilizando HTML e CSS, criando a base visual e funcional do projeto. Paralelamente, desenvolvemos o protótipo no Figma, garantindo uma visão clara do design e da experiência do usuário antes da implementação final.
